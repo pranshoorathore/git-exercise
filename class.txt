@@ -1,1 +1,2 @@
 We are learning Git and Git hub, using shared accounts via OAuth
+Class is about to start
